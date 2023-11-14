@@ -77,6 +77,7 @@ Workout Screen
 * => Progress Screen
 
 ## Wireframes
+![img](https://github.com/Agetachew1/FitGoal/assets/106967171/0e73d83b-a924-4e04-8911-153ad8db91eb)
 
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
