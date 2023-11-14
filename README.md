@@ -82,7 +82,41 @@ https://github.com/Agetachew1/FitGoal/blob/main/img.JPEG
 
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+Sprint 1: Set up the project and create login and registration functionality.
+Sprint 2: Design and implement the User Profile screen where users can input their personal health and fitness data.
+Sprint 3: Build the Workout screen that generates a personalized workout routine based on the user's profile data.
+Sprint 4: Implement the Progress screen that allows users to track their fitness progress over time.
 
+Now, let's define SMART goals for each sprint:
+
+Sprint 1 Goals:
+
+Specifically, set up the project's basic architecture and integrate user authentication.
+Measure success by the ability of users to register and log into the app.
+Aim to have user authentication fully implemented and tested.
+This is relevant as user authentication is a fundamental part of most apps.
+Time-bound to one week.
+Sprint 2 Goals:
+
+Specifically, design a user-friendly profile screen where users can input their personal health and fitness data.
+Measure success by the completeness and usability of the profile screen.
+Aim to have a fully functional and tested profile screen.
+This is relevant as it forms the basis for personalizing the user's experience.
+Time-bound to one week.
+Sprint 3 Goals:
+
+Specifically, build a personalized workout screen that takes user data and generates a custom workout routine.
+Measure success by the app's ability to generate different routines based on different user profiles.
+Aim to have a fully functional and tested workout screen.
+This is relevant as it is a key feature of the app that differentiates it from generic workout apps.
+Time-bound to one week.
+Sprint 4 Goals:
+
+Specifically, implement a progress screen that tracks and displays the user's fitness progress over time.
+Measure success by the completeness and accuracy of the progress tracking and visualization.
+Aim to have a fully functional and tested progress screen.
+This is relevant as it allows users to see the results of their efforts, promoting continued use of the app.
+Time-bound to one week.
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
