@@ -89,14 +89,14 @@ Sprint 4: Implement the Progress screen that allows users to track their fitness
 
 Now, let's define SMART goals for each sprint:
 
-Sprint 1 Goals:
+[x] Sprint 1 Goals:
 
 Specifically, set up the project's basic architecture and integrate user authentication.
 Measure success by the ability of users to register and log into the app.
 Aim to have user authentication fully implemented and tested.
 This is relevant as user authentication is a fundamental part of most apps.
 Time-bound to one week.
-Sprint 2 Goals:
+[]Sprint 2 Goals:
 
 Specifically, design a user-friendly profile screen where users can input their personal health and fitness data.
 Measure success by the completeness and usability of the profile screen.
