@@ -81,7 +81,14 @@ Workout Screen
 https://github.com/Agetachew1/FitGoal/blob/main/img.JPEG
 
 [Add picture of your hand sketched wireframes in this section]
-<div style="position: relative; padding-bottom: 206.89655172413794%; height: 0;"><iframe src="https://www.loom.com/embed/70697990d49b434bbcad32b8c7ee4fa4?sid=cf0ffbeb-6e5f-4a40-9917-963c9bf25d77" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/70697990d49b434bbcad32b8c7ee4fa4">
+      <p>Screenshot - 20 November 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/70697990d49b434bbcad32b8c7ee4fa4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/70697990d49b434bbcad32b8c7ee4fa4-with-play.gif">
+    </a>
+  </div>
 
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 Sprint 1: Set up the project and create login and registration functionality.
